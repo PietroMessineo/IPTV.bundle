@@ -89,7 +89,7 @@ Here is a bunch of Plex clients and some testing results, keep in mind that apps
 * **Connected devices**:
   * **[Plex for Xbox][GetPlex]** - did not work for [Be4stElectrjc](https://github.com/Cigaras/IPTV.bundle/commit/3f420423e2c02d3fe86d0b1eb99527a4af0e57b6#commitcomment-17536080);
   * **[Plex for PlayStation][GetPlex]** - not tested;
-  * **[Plex for Apple TV][GetPlex]** - not tested;
+  * **[Plex for Apple TV][GetPlex]** - Work on Apple TV 4th Gen;
   * **[PlexConnect](https://forums.plex.tv/categories/appletv-plexconnect) (old Apple TV)** - [many](https://forums.plex.tv/discussion/comment/496660#Comment_496660) [users](https://forums.plex.tv/discussion/comment/496683#Comment_496683) [report](https://forums.plex.tv/discussion/comment/538729#Comment_538729) [that it](https://forums.plex.tv/discussion/comment/545983#Comment_545983) does work, You just need to alternate between transcoding options, or [use third party transcoding service](https://forums.plex.tv/discussion/comment/539331#Comment_539331);
   * **[Plex for Chromecast][GetPlex]** - not tested;
   * **[Plex for Amazon Fire TV][GetPlex]** - not tested;
